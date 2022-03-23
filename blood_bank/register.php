@@ -68,7 +68,10 @@
 						<div class="overlay"></div>
 						<div class="content text">
 							<h1 class="heading">Welcome Blood Bank System</h1>
-							<p>Developed By <a href="http://shafraz.freeiz.com">Shafraz Nizam</a></p>
+							<p>Develeoped by- Vanshika Bhavnani D17B-03,</p>
+							<p>Jaishree Golani D17B-18,</p>
+							<p>Gunjan Bhawsignhka D17B-04.</p>
+							
 						</div>
 					</div>
 					<div class="clearfix"></div>
